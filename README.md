@@ -1,2 +1,3 @@
 # hello-world
-Gettign started project.
+
+This is my first project in GitHub.
